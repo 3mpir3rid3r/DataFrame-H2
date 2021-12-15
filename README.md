@@ -7,7 +7,7 @@ jFreechart view, using data frame data with calculated support and resistance.
 Print data in the console.
 ![image_2021-12-15_225649](https://user-images.githubusercontent.com/35126851/146235192-e94f13fe-13b9-4889-b384-f84d41a1817f.png)
 
-Print  data in the console.
+Print selected data in the console.
 ```
 dataFrame.select(ColumnsNamesEnum.CANDLE_INDEX.toString(),ColumnsNamesEnum.DATE_AND_TIME.toString(),ColumnsNamesEnum.OPEN.toString()).printAll();
 ```
@@ -19,4 +19,4 @@ dataFrame.select(ColumnsNamesEnum.OPEN.toString()).where(Selection.create(Column
 ```
 ![image_2021-12-15_230716](https://user-images.githubusercontent.com/35126851/146236801-182f1f35-5d98-42ff-bf80-2a9657aa2baa.png)
 
-Do not hesitate to get and improve, be kind enough to share it.
+**Do not hesitate to get and improve, be kind enough to share it.**
