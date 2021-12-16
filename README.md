@@ -28,5 +28,7 @@ Support and resistance.
 dataFrame.getSupportAndResistance();
 ```
 ![image_2021-12-16_110119](https://user-images.githubusercontent.com/35126851/146313779-b1b4ce58-38ac-4262-94d4-4ed98a350599.png)
+![image_2021-12-16_110531](https://user-images.githubusercontent.com/35126851/146314196-2c2092f4-b47e-4ae8-94dd-8d254d6dd14f.png)
+
 
 **Do not hesitate to get and improve, be kind enough to share it.**
