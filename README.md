@@ -1,3 +1,4 @@
+
 # DataFrame-H2
 Java data frame and visualization library. created using the h2 database.
 
@@ -21,5 +22,11 @@ You can run any queries like this.
 dataFrame.select(ColumnsNamesEnum.OPEN.toString()).where(Selection.create(ColumnsNamesEnum.OPEN.toString(), WhereConditionEnum.GREATER_THAN,40000)).groupBy(ColumnsNamesEnum.OPEN.toString()).executeForData();
 ```
 ![image_2021-12-15_230716](https://user-images.githubusercontent.com/35126851/146236801-182f1f35-5d98-42ff-bf80-2a9657aa2baa.png)
+
+Support and resistance.
+```
+dataFrame.getSupportAndResistance();
+```
+![image_2021-12-16_110119](https://user-images.githubusercontent.com/35126851/146313779-b1b4ce58-38ac-4262-94d4-4ed98a350599.png)
 
 **Do not hesitate to get and improve, be kind enough to share it.**
