@@ -5,6 +5,9 @@ jFreechart view, using data frame data with calculated support and resistance.
 ![image_2021-12-15_225010](https://user-images.githubusercontent.com/35126851/146234116-1172e53c-9866-46c2-b62c-6096fd5d186b.png)
 
 Print data in the console.
+```
+dataFrame.printAll();
+```
 ![image_2021-12-15_225649](https://user-images.githubusercontent.com/35126851/146235192-e94f13fe-13b9-4889-b384-f84d41a1817f.png)
 
 Print selected data in the console.
